@@ -6,16 +6,23 @@ function Redirect(){
 
   if(track_no.value === 'CS-73591564275'){
    setTimeout(function () { window.location = "myTracking.html" }, 1);
-  }else{
+  }
   
-   setTimeout(function () { window.location = "error.html" }, 1);
+
+
+   else if(track_no.value === 'CS-73591564297'){
+    setTimeout(function () { window.location = "package.html" }, 1);
+   }
+
+   else if(track_no.value === ' CS-735915642234'){
+    setTimeout(function () { window.location = "parcel.html" }, 1);
+   }
    
-    
-
- 
-
-  }
-
+   
+   else{
+   
+    setTimeout(function () { window.location = "error.html" }, 1);
+     }
 };
 
 
