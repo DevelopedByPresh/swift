@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../main tracking1/images"
+		},
+		{
+			"path": "../main tracking1/css"
+		},
+		{
+			"path": "../main tracking1/Courier"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Courier"
+	}
+}

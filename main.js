@@ -18,12 +18,12 @@ function Redirect(){
     setTimeout(function () { window.location = "parcel.html" }, 1);
    }
 
-   else if(track_no.value === 'CS-46789379057'){
+   else if(track_no.value === 'CS-505643618'){
     setTimeout(function () { window.location = "goods.html" }, );
    }
 
 
-   else if(track_no.value === 'CS-467885346'){
+   else if(track_no.value === 'CS-6790264924'){
     setTimeout(function () { window.location = "delivery.html" }, );
    }
 
