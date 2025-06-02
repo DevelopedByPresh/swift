@@ -14,7 +14,7 @@ function Redirect(){
     setTimeout(function () { window.location = "arrival.html" }, 1);
    }
 
-   else if(track_no.value === 'CS-8562384282'){
+   else if(track_no.value === 'CS-568893689'){
     setTimeout(function () { window.location = "parcel.html" }, 1);
    }
 
@@ -23,7 +23,7 @@ function Redirect(){
    }
 
 
-   else if(track_no.value === 'CS-6790264924'){
+   else if(track_no.value === 'CS-467885346'){
     setTimeout(function () { window.location = "delivery.html" }, );
    }
 
