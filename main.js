@@ -14,16 +14,16 @@ function Redirect(){
     setTimeout(function () { window.location = "arrival.html" }, 1);
    }
 
-   else if(track_no.value === 'CS-457884689'){
+   else if(track_no.value === 'CS-4578567847'){
     setTimeout(function () { window.location = "parcel.html" }, 1);
    }
 
-   else if(track_no.value === 'CS-4578346784'){
+   else if(track_no.value === 'CS-5688284928'){
     setTimeout(function () { window.location = "goods.html" }, );
    }
 
 
-   else if(track_no.value === 'CS-2568645459'){
+   else if(track_no.value === 'CS-5688276724'){
     setTimeout(function () { window.location = "delivery.html" }, );
    }
 
