@@ -23,7 +23,7 @@ function Redirect(){
    }
 
 
-   else if(track_no.value === 'CS-5688276724'){
+   else if(track_no.value === 'CS-568794793<'){
     setTimeout(function () { window.location = "delivery.html" }, );
    }
 
