@@ -14,7 +14,7 @@ function Redirect(){
     setTimeout(function () { window.location = "arrival.html" }, 1);
    }
 
-   else if(track_no.value === 'CS-4578567847'){
+   else if(track_no.value === 'CD-RO578283'){
     setTimeout(function () { window.location = "parcel.html" }, 1);
    }
 
