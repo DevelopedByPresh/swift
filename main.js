@@ -10,11 +10,11 @@ function Redirect(){
   
 
 
-   else if(track_no.value === 'CS-5849264928'){
+   else if(track_no.value === 'TRK-683828382'){
     setTimeout(function () { window.location = "arrival.html" }, 1);
    }
 
-   else if(track_no.value === 'TRK-568458936'){
+   else if(track_no.value === 'TRK-6826372848'){
     setTimeout(function () { window.location = "parcel.html" }, 1);
    }
 
