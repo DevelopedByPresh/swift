@@ -10,7 +10,7 @@ function Redirect(){
   
 
 
-   else if(track_no.value === 'TRK-5782838682'){
+   else if(track_no.value === 'TRK-578283856'){
     setTimeout(function () { window.location = "arrival.html" }, 1);
    }
 
