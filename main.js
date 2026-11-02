@@ -14,7 +14,7 @@ function Redirect(){
     setTimeout(function () { window.location = "arrival.html" }, 1);
    }
 
-   else if(track_no.value === 'TRK-6826372848'){
+   else if(track_no.value === 'TRK-5738284829362'){
     setTimeout(function () { window.location = "parcel.html" }, 1);
    }
 
