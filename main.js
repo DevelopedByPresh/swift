@@ -23,7 +23,7 @@ function Redirect(){
    }
 
 
-   else if(track_no.value === 'TRK-5782856878'){
+   else if(track_no.value === 'SSC 142857'){
     setTimeout(function () { window.location = "delivery.html" }, );
    }
 
